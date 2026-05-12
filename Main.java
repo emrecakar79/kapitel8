@@ -18,5 +18,6 @@ public class Main
         System.out.println("Mult=" + mult);
         
         //Coole Idee 1
+        //Coole Idee 2
     }
 }
