@@ -16,5 +16,7 @@ public class Main
         
         System.out.println("Summe=" + summe);
         System.out.println("Mult=" + mult);
+        
+        //Coole Idee 1
     }
 }
