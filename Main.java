@@ -22,8 +22,7 @@ public class Main
         
         //Coole Idee 1
         //Coole Idee 2
-
         //Master/Feature Update 1
-        //Master Update 2 
+        //Master/Feature Update 2 
     }
 }
